@@ -1,4 +1,4 @@
-<h1>Hi, I'm Matthew, an <a href="https://www.linkedin.com/in/matthew-cruz-reyes-4118b0212/">IT Professional!
+<h1>Hi, I'm Matthew, an <a href="https://www.linkedin.com/in/matthew-cruz-reyes-4118b0212/">IT Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
